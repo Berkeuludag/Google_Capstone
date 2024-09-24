@@ -279,6 +279,7 @@ The analysis revealed two key trends:
 
 ### **Case Study Roadmap - Share**
 
+![Dashboard 1](https://github.com/user-attachments/assets/4ed61b1c-0a25-4d2a-afaa-0f3c8306edde)
 
 ---
 
